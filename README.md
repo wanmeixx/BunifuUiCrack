@@ -16,3 +16,8 @@ This only works for .NET Framework, i will work on a .NET Core crack soon.<br>
 # if you want to contact me
 discord: @t0int
 telegram: @t0int
+
+### 使用教程:
+安装版本7.2.0
+目录: C:\Users\Li\.nuget\packages\bunifu.licensing\6.0.4\lib\net8.0-windows7.0
+替换dll文件.
